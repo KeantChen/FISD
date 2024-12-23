@@ -1,5 +1,5 @@
 # FISD
-coda and data for FISD
+coda and model for FISD
 
 The code section is the source code of the project, uploaded in the form of a Jupyter notebook, including details of data processing, model training, and testing
 The file ending with _data is the code for processing and obtaining training data. The main purpose of the code is
